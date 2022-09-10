@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - This program generates a random number n
+ * main - The program generates a random number n
  *
  * Description: prints if n is positive, zero, or negative
  * Return: 0
@@ -17,7 +17,7 @@ int main(void)
 		printf("%d is positive\n", n);
 	else if (n == 0)
 		printf("%d is zero\n", n);
-	else 
+	else
 		printf("%d is negative\n", n);
 
 	return (0);
