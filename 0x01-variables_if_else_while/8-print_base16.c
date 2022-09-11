@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * Description: Print all hex numbers and 
+ * Description: Print all hex numbers and
  * alphabets in lowercase
  * Return: 0
  */
