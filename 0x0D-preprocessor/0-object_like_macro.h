@@ -1,6 +1,6 @@
-#ifndef _INSERT_H
-#define _INSERT_H
+#ifndef INSERT_H
+#define INSERT_H
 
 #define SIZE 1024
 
-#endif/*_INSERT_H*/
+#endif/*INSERT_H*/
